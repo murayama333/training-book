@@ -4,7 +4,7 @@
 
 ```php
 $count = 3;
-$message = Hello";
+$message = "Hello";
 ```
 
 実行結果のとおり出力してください。
